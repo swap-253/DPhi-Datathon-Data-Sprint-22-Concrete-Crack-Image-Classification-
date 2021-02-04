@@ -1,7 +1,7 @@
 # DPhi-Datathon-Data-Sprint-22-Concrete-Crack-Image-Classification-
 I achieved 9th rank in the recently held DPhi Datathon for Concrete Crack Image Classification where I achieved an accuracy of **99.902%** in the test dataset. Here I 
 will share my approach with how I did that. Everything has even been explained in the comments.The problem was solved on **Google Colab**.Link for the leaderboard is
-https://dphi.tech/practice/challenge/58#leaderboard
+https://dphi.tech/practice/challenge/58#leaderboard and my username is **nishutiwari543**
 <br>
 The task was to train a model which could predict seeing the test images whether there was a crack in the image or not. 
 <br>
